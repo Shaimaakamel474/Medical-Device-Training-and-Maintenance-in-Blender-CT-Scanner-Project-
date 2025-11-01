@@ -36,7 +36,6 @@ The folder includes two main videos:
 [![Watch the video](https://img.shields.io/badge/▶️-Watch%20Video-blue)](https://github.com/user-attachments/assets/1eeb2092-69cc-496e-a6aa-a0041fe3dfc9)
 
 
-
 ---
 
 ## 🧾 Summary
